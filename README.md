@@ -48,9 +48,9 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
     - Insert a Pivot Table (Insert > PivotTable) to analyze trends by region, time period, or product category.
     - Drag relevant fields into Rows and Values sections to summarize sales and profits.
 
-### Step 6: Creating Charts for Visualization
+### Step 6: Creating Dashboard for Visualization
     - Use Bar or Line Charts to show sales trends over time.
     - Apply Pie Charts to compare profit distribution across different categories.
     - Use conditional formatting to highlight key insights.
-
+![screenshot](https://github.com/user-attachments/assets/bcd9284b-6b14-4049-808a-2812d544291e)
 

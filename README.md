@@ -55,10 +55,10 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
 ![screenshot](https://github.com/user-attachments/assets/bcd9284b-6b14-4049-808a-2812d544291e)
 
 ### Step 7: Documentation & Reporting
-Summarize key findings and insights in:
-    -Dashboard visuals
-    -Readme or PDF report
-    -Executive summary for stakeholders
+Summarize key findings and insights in:</br>
+    -Dashboard visuals</br>
+    -Readme or PDF report</br>
+    -Executive summary for stakeholders</br>
 
 
 

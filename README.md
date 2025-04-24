@@ -6,11 +6,16 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
         To uncover patterns and trends in seasonal sales and profitability using temporal features.
         To generate interactive visual dashboards that communicate actionable business insights.
 
-##  
- 
+## Contents
+- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Data-Column">Data Column</a>
+- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Process">Process</a>
+- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Features">Features</a>
+- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Final-Conclusion">Final Conclusion</a>
+
 ## Dataset Used
   - <a href="https://github.com/hariharanr8/Sales-and-Profit/blob/main/project2(Sales%20and%20Profit%20Data)data.xlsx">Dataset</a>
   - <a href="https://github.com/hariharanr8/Sales-and-Profit/blob/main/project2(Sales%20and%20Profit%20Data).xlsx">Dashboard</a>
+  
 ## Data columns
     The dataset comprises a structured set of transactional records, encompassing essential dimensions for 
     comprehensive business intelligence and sales performance evaluation. The Order Date field captures 

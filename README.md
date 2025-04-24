@@ -9,7 +9,7 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
 ## Contents
 - <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#data-columns">Data Column</a>
 - <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#Process">Process</a>
-- <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#data-columns">Features</a>
+- <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#Features">Features</a>
 - <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#Final Conclusion">Final Conclusion</a>
 
 ## Dataset Used

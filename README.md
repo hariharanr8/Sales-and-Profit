@@ -54,3 +54,11 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
     - Use conditional formatting to highlight key insights.
 ![screenshot](https://github.com/user-attachments/assets/bcd9284b-6b14-4049-808a-2812d544291e)
 
+### Step 7: Documentation & Reporting
+Summarize key findings and insights in:
+    -Dashboard visuals
+    -Readme or PDF report
+    -Executive summary for stakeholders
+
+
+

@@ -21,9 +21,12 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
     across temporal, regional, and categorical axes, driving strategic insights into profitability, customer behavior, 
     and market trends.
 ## Process
-     Since the document you uploaded was too large to process, I can't analyze it directly. However, I can guide you through a structured step-by-step approach to working with sales and profit data in Excel. Here’s how you can break it down:
+     Since the document you uploaded was too large to process, I can't analyze it directly. However, 
+     I can guide you through a structured step-by-step approach to working with sales and profit data in Excel. 
+     Here’s how you can break it down:
 ### Step 1: Understanding the Data
-     - Open your Excel file and review the structure: look at column headers and identify what data is available (e.g., sales figures, profit margins, dates, categories).
+     - Open your Excel file and review the structure: look at column headers and identify what data is 
+     available (e.g., sales figures, profit margins, dates, categories).
      - Check for missing or inconsistent data that might need cleaning.
 
 ### Step 2: Data Cleaning & Preparation

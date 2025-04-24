@@ -7,10 +7,10 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
         To generate interactive visual dashboards that communicate actionable business insights.
 
 ## Contents
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Data-Column">Data Column</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Process">Process</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Features">Features</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Final-Conclusion">Final Conclusion</a>
+- <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#data-columns">Data Column</a>
+- <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#Process">Process</a>
+- <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#data-columns">Features</a>
+- <a  href="https://github.com/hariharanr8/Sales-and-Profit?tab=readme-ov-file#Final Conclusion">Final Conclusion</a>
 
 ## Dataset Used
   - <a href="https://github.com/hariharanr8/Sales-and-Profit/blob/main/project2(Sales%20and%20Profit%20Data)data.xlsx">Dataset</a>
@@ -67,6 +67,14 @@ Summarize key findings and insights in:</br>
     -Dashboard visuals</br>
     -Readme or PDF report</br>
     -Executive summary for stakeholders</br>
+
+## Features
+    - Customizable Layouts: Design dashboards tailored to display relevant data.
+    - Real-Time Data Updates: Automatically refresh data for live insights.
+    - Interactive Elements: Use filters and drill-down options for detailed exploration.
+    - Integration Capabilities: Connect with multiple data sources for a unified view.
+    - Data Visualization: Showcase trends and metrics using charts and heatmaps.
+    - Export & Sharing Options: Share dashboards or export as reports in various formats.
 
 ## Final Conclusion
     working with sales and profit data in Excel involves a systematic approach: start by understanding and

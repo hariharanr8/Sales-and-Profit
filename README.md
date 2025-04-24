@@ -5,6 +5,9 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
         To identify key performance indicators (KPIs) such as top-performing products, regions, and categories.
         To uncover patterns and trends in seasonal sales and profitability using temporal features.
         To generate interactive visual dashboards that communicate actionable business insights.
+
+##  
+ 
 ## Dataset Used
   - <a href="https://github.com/hariharanr8/Sales-and-Profit/blob/main/project2(Sales%20and%20Profit%20Data)data.xlsx">Dataset</a>
   - <a href="https://github.com/hariharanr8/Sales-and-Profit/blob/main/project2(Sales%20and%20Profit%20Data).xlsx">Dashboard</a>

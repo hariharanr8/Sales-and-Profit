@@ -11,8 +11,8 @@ Sales &amp; Profit Analysis Conducted exploratory data analysis (EDA) using Exce
 ## Data columns
     The dataset comprises a structured set of transactional records, encompassing essential dimensions for 
     comprehensive business intelligence and sales performance evaluation. The Order Date field captures 
-    the timestamp of each purchase transaction, serving as the temporal anchor from which both the <b>Month and
-    Year</b> columns are programmatically derived through <b>datetime</b> parsing techniques—enabling robust 
+    the timestamp of each purchase transaction, serving as the temporal anchor from which both the Month and
+    Year columns are programmatically derived through datetime parsing techniques—enabling robust 
     time-series analysis. Customer and geographical segmentation are facilitated through the Customer Name and 
     State fields, respectively. Product-related attributes include Category, Sub-Category, and the specific 
     Product Name, supporting hierarchical product analytics. Quantitative performance metrics such as Sales 
